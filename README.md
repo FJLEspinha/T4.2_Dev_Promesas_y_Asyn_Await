@@ -19,4 +19,4 @@ Consta de unos botones en el header para mostrar: todos los personajes, humanos,
 - Se creó un fichero de CSS y un fichero de JavaScript para cada página.  
 - En la página de inicio se selecciona y al clicar en el botón correspondiente se abre una nueva página para no empañar la experiencia de usuario.  
 ## Acceso a la aplicación
-Esta app puede probarse [pinchando aquí]( https://fjlespinha.github.io/T4_2_Dev_Promesas_y_Asyn_Await/)  
+Esta app puede probarse [pinchando aquí]( https://fjlespinha.github.io/T4.2_Dev_Promesas_y_Asyn_Await/)  
